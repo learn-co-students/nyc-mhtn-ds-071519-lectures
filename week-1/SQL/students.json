@@ -1,0 +1,117 @@
+[
+{"name": "Sean Abu Wilson",
+"birthdate": "02/06",
+"siblings": 2,
+"Birthplace": "Birmingham, AL",
+"yearsinnyc": 7.8,
+"favoritefood":"guacamole"
+},
+{"name": "Tawab",
+"birthdate": "04/08/1998",
+"siblings": 4,
+"Birthplace": "Afghanistan",
+"yearsinnyc":  0.5,
+"favoritefood": "pizza"
+},
+{"name": "Bridget Boakye",
+"birthdate": "1990-07-13",
+"siblings": 3,
+"Birthplace": "Accra",
+"yearsinnyc": 15,
+"favoritefood":"Indian"
+},
+{"name": "Cristina",
+"birthdate": "9/9/1990",
+"siblings": 2,
+"Birthplace": "Spain",
+"yearsinnyc": 6,
+"favoritefood":"Sushi"
+},
+{"name": "Danny (Haoyang) Yu",
+"birthdate": "1997-03-19",
+"siblings": 2,
+"Birthplace": "1997-03-19",
+"yearsinnyc": 0,
+"favoritefood":"Galbi"
+},
+{"name": "Dustin_Breitner",
+"birthdate": "04/15/94",
+"siblings": 2,
+"Birthplace": "New_York",
+"yearsinnyc": 3,
+"favoritefood":"Pizza"
+},
+
+{"name": "Gregory DeSantis",
+"birthdate": "1987-11-23",
+"siblings": 2,
+"Birthplace": "Highland Park, NJ",
+"yearsinnyc": 13,
+"favoritefood":"Pizza"
+},
+{"name": "Harrison Miller",
+"birthdate": "10/2/85",
+"siblings": 0,
+"Birthplace": "New Jersey",
+"yearsinnyc": 0,
+"favoritefood": "Pizza"},
+
+{"name": "Jeremy Owens",
+"birthdate": "03/30/1990",
+"siblings": 0,
+"Birthplace": "Virginia",
+"yearsinnyc": 6,
+"favoritefood":"Avocado"
+},
+{"name" : "Jeremy Reikes" ,
+"birthdate" : "1-/12/1995",
+"siblings" : 1,
+"Birthplace" : "New York City",
+"yearsinnyc" : 23,
+"favoritefood" : "Pizza"},
+
+{"name": "Johnathan Peck",
+"birthdate": "02-19-1994",
+"siblings": 2,
+"Birthplace": "New York",
+"yearsinnyc": 25,
+"favoritefood":"Moms food"
+},
+{"name": "Minna F",
+"birthdate": "11-19-1996",
+"siblings": 3,
+"Birthplace": "San Francisco",
+"yearsinnyc": 1,
+"favoritefood":"sushi"
+},
+
+
+{"name":"Nabil Abbas",
+"birthdate": "12-07-1994",
+"siblings": 2,
+"Birthplace": "Long Island",
+"yearsinnyc": 6,
+"favoritefood":"Gyro"
+},
+{"name": "Natalie Del Rossi",
+"birthdate": "10-23-1994",
+"siblings": 0,
+"Birthplace": "Brooklyn",
+"yearsinnyc": 18,
+"favoritefood": "pizza"
+},
+{"name": "Remy Canario",
+"birthdate": "10-11-1988",
+"siblings": 0,
+"Birthplace": "New York",
+"yearsinnyc": 28,
+"favoritefood":"toast"
+},
+{"name": "Xristos Katsaros",
+"birthdate": "03-24-1986",
+"siblings": 1,
+"Birthplace": "Chicago Heights, IL",
+"yearsinnyc": 3,
+"favoritefood":"Pizza"
+}
+]
