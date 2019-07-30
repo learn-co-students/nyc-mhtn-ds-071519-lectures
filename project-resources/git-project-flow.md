@@ -28,6 +28,7 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+*/.ipynb_checkpoints/*
 
 # config file
 config.py
