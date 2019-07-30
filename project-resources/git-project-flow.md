@@ -61,7 +61,7 @@ Always work off your own branch!
 2. Python files (`~.py`) can be merged, so go ahead and work off the same file!
 3. While on your own branch, you can save your work by doing the standard `git add .`, `git commit -m 'message'` and `git push`.
   - Doing `git push origin branch-name` does the same.
-4. **[BONUS]** If you need a file from another branch, `git checkout other-branch-name --file-path-for-file-you-want`
+4. **[BONUS]** If you need a file from another branch, `git checkout other-branch-name -- file-path-for-file-you-want`
 
 
 ## Putting Your Work Together
