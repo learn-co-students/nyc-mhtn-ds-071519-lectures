@@ -36,6 +36,10 @@ config.py
 
 4. Each teammate can clone down the repository! (No need to fork)
   - Each teammate creates a `config.py` for passwords/keys
+  
+5. If you want to work off the master branch, it's still important to regularly make commits with `git add .`, `git commit -m 'message'` and `git push`. A good practice is to always do a `git pull` before making changes.
+  - If you run into conflicts, **read the error message** because it'll often tell you what you can do.
+  - A common fix: do `git stash` followed by `git stash pop` (look it up!)
 
 ## Branches
 
