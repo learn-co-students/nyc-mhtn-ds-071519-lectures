@@ -1,0 +1,5 @@
+I like the gif of the filter, but showing the data product math can help students understand it better
+
+explain why there is a train, validation, and test splits
+
+could put a little more time into explaining hyperparameters and how to tune them and how they affect the performance of your models
